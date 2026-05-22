@@ -1,6 +1,10 @@
 # power-bi-final-exam
 # Student Performance Dashboard – Power BI Project
 
+
+<img width="1901" height="967" alt="Screenshot 2026-05-22 150512" src="https://github.com/user-attachments/assets/adbf3092-c89d-4a82-a082-ccbc5e2bfca1" />
+
+
 ## Overview
 
 This project is an interactive Power BI dashboard designed to analyze student academic performance, attendance, and behavior across subjects and terms using data modeling, DAX, and visual storytelling.
@@ -30,6 +34,8 @@ This project is an interactive Power BI dashboard designed to analyze student ac
   * Conditional formatted tables
 * Slicers and drillthrough pages
 * Bookmark navigation and tooltips
+* <img width="1896" height="946" alt="Screenshot 2026-05-22 150533" src="https://github.com/user-attachments/assets/e1bcfec9-0129-466a-aab9-1246d40c7d21" />
+
 
 ## Tools Used
 
